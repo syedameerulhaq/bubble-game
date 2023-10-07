@@ -5,9 +5,7 @@
 
  }
  document.querySelector(".pbottom").innerHTML = bubbleDiv ;
- document.querySelector("#bubble").addEventListener("click",function(temp){
-   document.querySelector("#bubble").style.backgroundColor="black";
- }) ;
+
 
  
 
