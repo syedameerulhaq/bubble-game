@@ -49,6 +49,8 @@ html,body{
 }
 .pbottom{
     display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 10px;
     flex-wrap: wrap;
     width: 100%;
@@ -73,3 +75,8 @@ html,body{
     
 
 }
+/* .pbottom >.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
